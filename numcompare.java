@@ -1,3 +1,5 @@
+import shapes.Circle;
+
 import java.util.Scanner;
 
 public class numcompare {
